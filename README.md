@@ -4,7 +4,7 @@ This project implements a complete Student Record Management System using OOP (A
 
 Main class: Main
 
-🚀 Features ✔ Object-Oriented Programming
+🚀 Features ✔ 
 
 Abstract Class Person
 
